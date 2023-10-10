@@ -5,7 +5,7 @@
 }
 
 @media (min-width: 576px) {
-   {
+   btn {
     display: block;
     text-align: center;
     margin: 0 20px;
