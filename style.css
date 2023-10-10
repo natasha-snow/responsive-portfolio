@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
    .btn {
     display: block;
     text-align: center;
