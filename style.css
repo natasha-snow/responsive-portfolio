@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+@media (min-width: 576px) {
+   {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+}
+}
+
 :root {
   --primary-color: rgb(252, 219, 225);
   --secondary-color: darkmagenta;
